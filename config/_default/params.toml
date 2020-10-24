@@ -201,7 +201,7 @@ plugins_js  = []
   #   4: Citation (publications only)
   post_view = 2
   publication_view = 2
-  talk_view = 3
+  talk_view = 2
 
 ############################
 ## Comments
@@ -214,7 +214,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = false #{page = true, post = true, docs = true, project = true, publication = true, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
@@ -285,4 +285,3 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
-  # PLACE THESE PARAMS IN THE MAIN CONFIG SECTION (NOT UNDER ANY [SUBSECTION])
