@@ -45,24 +45,19 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/orocline
-
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZrYoeIEAAAAJ&hl=en
-
 - icon: github
   icon_pack: fab
   link: https://github.com/dpastorgalan
-
- - icon = orcid
+- icon = orcid
   icon_pack = ai
   link =  https://orcid.org/0000-0002-0226-2739
-
- - icon = researchgate
+- icon = researchgate
   icon_pack = ai
   link = https://www.researchgate.net/profile/Daniel_Pastor-Galan
-
- - icon = publons
+- icon = publons
   icon_pack = ai
   link = https://publons.com/author/1169176/daniel-pastor-galan#profile
   
