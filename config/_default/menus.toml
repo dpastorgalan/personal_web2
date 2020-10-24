@@ -18,15 +18,15 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 40
+  weight = 60
 [[main]]
   name = "Outreach"
   url = "/post/outreach/"
-  weight = 50
+  weight = 40
 [[main]]
   name = "Grants & Awards"
   url = "/post/grants-awards/"
-  weight = 60
+  weight = 50
   # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
