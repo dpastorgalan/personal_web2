@@ -1,7 +1,7 @@
 +++
 ---
 # Display name
-title: Ariuntsetseg (Ari) Ganbat
+title: Ariuntsetseg Ganbat
 
 # Is this the primary user of the site?
 superuser: false
