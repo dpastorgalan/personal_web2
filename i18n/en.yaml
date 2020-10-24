@@ -111,7 +111,7 @@
   translation: See all posts
 
 - id: more_talks
-  translation: See all talks
+  translation: See all fieldworks
 
 - id: more_publications
   translation: See all publications
@@ -197,7 +197,7 @@
   translation: Publications
 
 - id: talks
-  translation: Talks
+  translation: Fieldwork
 
 - id: projects
   translation: Projects
