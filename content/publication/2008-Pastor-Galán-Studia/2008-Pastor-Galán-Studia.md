@@ -21,8 +21,8 @@ selected = false
 
 projects = []
 
-url = [{name = "LINK", url = "http://revistas.usal.es/index.php/0211-8327/article/view/1326"}]
-url_pdf = ""
+url_custom = [{name = "LINK", url = "http://revistas.usal.es/index.php/0211-8327/article/view/1326"}]
+url_pdf = "/publication/PDFs/2008-Pastor-Galan-Studia.pdf"
 
 math = false
 
