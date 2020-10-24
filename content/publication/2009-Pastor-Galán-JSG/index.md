@@ -21,7 +21,7 @@ selected = false
 
 projects = []
 
-url = "https://www.sciencedirect.com/science/article/pii/S0191814109001783"
+url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0191814109001783"}]
 
 url_pdf = ""
 
