@@ -1,10 +1,10 @@
 
 
 # Theme metadata
-name = "Default"
+name = "my theme"
 
 # Is theme light or dark?
-light = true
+# light = true
 
 # Primary
 primary = "#3286ad"
