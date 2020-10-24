@@ -28,7 +28,7 @@ education:
   - course: PhD in Geology
     institution: Universidad de Salamanca
     year: 2012
-  - course: "Licenciado" (BSc+MSc) in Geology
+  - course: Licenciado (BSc+MSc) in Geology
     institution: Universidad de Salamanca
     year: 2009
 
