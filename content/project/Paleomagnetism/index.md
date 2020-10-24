@@ -6,14 +6,14 @@ tags:
 date: "2020-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "www.paleomagnetis.org"
 
 image:
   caption: Logo
   focal_point: Smart
 
 links:
-url_code: "www.paleomagnetis.org"
+url_code: "https://github.com/Jollyfant/PMAG2"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -26,4 +26,4 @@ url_video: ""
 slides: ""
 ---
 
-Paleomagnetism.org 2.0 - In this application we emphasize the clear distinction between the demagnetization, interpretation and analysis of magnetic components. Inside the interpretation portal metadata is collected at the specimen level and multiple specimens can be combined to form a single collection. This collection is a permanent data object that can be published in a publication through our Data Library.
+[Paleomagnetism.org 2.0](www.paleomagnetism.org) - In this application we emphasize the clear distinction between the demagnetization, interpretation and analysis of magnetic components. Inside the interpretation portal metadata is collected at the specimen level and multiple specimens can be combined to form a single collection. This collection is a permanent data object that can be published in a publication through our Data Library.
