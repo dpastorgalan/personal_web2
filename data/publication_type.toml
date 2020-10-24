@@ -1,10 +1,13 @@
-    Uncategorized = 0
-    ConferencePaper = 1
-    JournalArticle = 2
-    Preprint = 3
-    Report = 4
-    Book = 5
-    BookSection = 6
-    Poster = 7
-    Thesis = 8  # (v4.2+ required)
-    Patent = 9  # (v4.2+ required)
+# Publication types.
+# Each item in the list corresponds to an item in the language packs.
+types = [ "pub_uncat",
+          "pub_conf",
+          "pub_journal",
+          "pub_preprint",
+          "pub_report",
+          "pub_book",
+          "pub_book_section",
+          "pub_thesis",
+          "pub_patent",
+          "pub_poster",
+        ]
