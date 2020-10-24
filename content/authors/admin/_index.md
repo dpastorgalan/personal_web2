@@ -75,10 +75,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
-- Students
+#user_groups:
 ---
 
 The Earth has written its own history in thousands of rock pages, the geological record, which contains evidence of the evolution and interactions of continents, oceans, atmosphere, and biosphere. Despite the rock archive is really dismembered, scattered and hidden in remote places or deeply buried, gathering the pieces together is our only opportunity to reveal the history of our planet, our history. I am a researcher who works in structural geology, plate tectonics, paleogeography and Earth history combining field geology, paleomagnetism, isotopic methods (U-Pb, Ar-Ar, Lu-Hf, Sm-Nd, O and H) and modeling (numerical and analog).
