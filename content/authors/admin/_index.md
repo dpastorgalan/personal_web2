@@ -54,9 +54,9 @@ social:
   icon_pack: fab
   link: https://github.com/dpastorgalan
 
-# - icon = "orcid"
-#  icon_pack = "ai"
-#  link = "https://orcid.org/0000-0002-0226-2739"
+ - icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-0226-2739"
 
 # - icon = "researchgate"
 #  icon_pack = "ai"
