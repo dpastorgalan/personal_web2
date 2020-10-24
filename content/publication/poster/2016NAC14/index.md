@@ -8,7 +8,7 @@ authors = ["Daniel Pastor-Galán", "Rob van der Voo"]
 
 # Publication type.
 # 7 = Poster
-publication_types = ["7"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Poster from NAC14"
