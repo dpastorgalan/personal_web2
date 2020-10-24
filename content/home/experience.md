@@ -35,15 +35,14 @@ date_format = "Jan 2006"
   date_start = "2016-09-29"
   date_end = "2018-09-29"
   description = """Pantalassa-Pangea relationships"""
-    
 
 [[experience]]
   title = "Postdoc"
   company = "Utrecht University"
   company_url = ""
   location = "Utrecht"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2013-01-01"
+  date_end = "2016-07-26"
   description = """Oroclinal bending in the Talysh-Alborz"""
 
 +++
