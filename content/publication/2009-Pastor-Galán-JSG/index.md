@@ -21,9 +21,9 @@ selected = false
 
 projects = []
 
-url_custom = [{name = "LINK", url = "https://www.sciencedirect.com/science/article/pii/S0191814109001783"}]
+url = "https://www.sciencedirect.com/science/article/pii/S0191814109001783"
 
-url_pdf = "/publication/PDFs/2009-Pastor-Galan-JSG.pdf"
+url_pdf = ""
 
 math = false
 
