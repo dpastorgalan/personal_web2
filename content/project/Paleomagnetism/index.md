@@ -6,7 +6,7 @@ tags:
 date: "2020-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "www.paleomagnetis.org"
+external_link: ""
 
 image:
   caption: Logo
