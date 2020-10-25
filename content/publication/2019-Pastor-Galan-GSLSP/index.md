@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Supercontinents", "Plumes", "Supercontinent Cycle"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2019-Pastor-Galan-GSLP.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
