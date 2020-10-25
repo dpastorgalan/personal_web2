@@ -44,7 +44,7 @@ projects = ["Detrital Zircon"]
 tags = ["Detrital Zircon", "U-Pb Geochronology", "Cantabrian Zone", "Iberia"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2020-Gutierrez-Alonso-GSLSP.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
