@@ -24,7 +24,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
-  
+  [[content.filter_button]]
+     name = "Research"
+     tag = "Research"  
+
    [[content.filter_button]]
      name = "Software"
      tag = "Software"
@@ -32,10 +35,7 @@ subtitle = ""
    [[content.filter_button]]
      name = "Outreach"
      tag = "Outreach"
-
-   [[content.filter_button]]
-     name = "Research"
-     tag = "Research"
+ 
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
