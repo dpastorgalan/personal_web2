@@ -45,7 +45,7 @@ projects = ["internal-project"]
 tags = ["Central Iberia", "Pangea"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2015-Pastor-Galan-GEO.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
