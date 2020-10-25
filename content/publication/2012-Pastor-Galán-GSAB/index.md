@@ -23,7 +23,7 @@ projects = []
 
 url_custom = [{name = "LINK", url = "https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/124/7-8/1293/125832"}]
 
-url_pdf = "/files/PDFs/2012-Pastor-Galán-GSAB.pdf"
+url_pdf = ""
 
 math = false
 
