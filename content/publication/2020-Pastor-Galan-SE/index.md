@@ -44,7 +44,7 @@ projects = ["Kinematics of Curved Mountain Belts"]
 tags = ["Structural Geology", "Paleomagnetism", "Orocline", "Geochronology"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2020-Pastor-Galan-SE.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
