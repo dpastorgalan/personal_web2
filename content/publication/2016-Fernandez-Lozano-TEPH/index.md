@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Orocline", "Paleomagnetism", "Iberia"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2016-Fernandez-Lozano-TEPH.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
