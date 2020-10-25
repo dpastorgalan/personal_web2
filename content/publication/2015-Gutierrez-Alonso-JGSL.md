@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Geochronology", "Zircon", "Provenance Analysis"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2015-Gutierrez-Alonso-JGS.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
