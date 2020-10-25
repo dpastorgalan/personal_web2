@@ -19,3 +19,5 @@ menu_title = "#2b2b2b"
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(233, 240, 242)"
+
+font = "#2b5f77"
