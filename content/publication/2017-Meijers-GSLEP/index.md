@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Lesser Caucassus", "Paleomagnetism", "Orocline"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2017-Meijers-GSLEP.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
