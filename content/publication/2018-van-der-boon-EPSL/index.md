@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Arabia-Eurasia", "Greater Caucassus", "Orocline"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2018-van-der-boon-EPSL.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
