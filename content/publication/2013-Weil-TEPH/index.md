@@ -23,7 +23,7 @@ projects = []
 
 url_custom = [{name = "LINK", url = "https://doi.org/10.1016/j.tecto.2012.10.006"}]
 
-url_pdf = "/publication/PDFs/2013-Weil-TEPH.pdf"
+url_pdf = ""
 
 math = false
 
