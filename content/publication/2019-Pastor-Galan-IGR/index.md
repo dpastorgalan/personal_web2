@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Structural Geology", "Central Iberia", "Orocline"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2019-Pastor-Galan-IGR.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
