@@ -45,7 +45,7 @@ projects = ["internal-project"]
 tags = ["Irlanda", "Pangea"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2015-Pastor-Galan-EPSL.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
