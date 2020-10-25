@@ -65,4 +65,4 @@ caption = "Cupcake"
 
 Some photos of the day in here [Album](https://photos.app.goo.gl/KfsrNrXAH89bf7RZ9)
 
-[![Screenshot](https://raw.githubusercontent.com/dpastorgalan/PersonalWeb/master/static/img/icon-192.png)](https://www.danielpastorgalan.com/)
+[![Screenshot](https://raw.githubusercontent.com/dpastorgalan/Personal_Web2/master/assets/images/icon-192.png)](https://www.danielpastorgalan.com/)

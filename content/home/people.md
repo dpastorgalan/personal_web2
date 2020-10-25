@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Meet the Team"
-subtitle = "[See Past Members](/past/)"
+subtitle = "[See Past Members](/past_member)"
 
 [content]
   # Choose which groups/teams of users to display.

@@ -92,4 +92,4 @@ caption = "Cupcake"
 - **2009**  MSc in Geology Award from Salamanca University (Awarded to the best Geology Master Thesis of the year)
 - **2008**  Geology Degree Award from Spanish Ministry of Education Social Politics and Sports. (Awarded to the top five of students graduating in Geology nationally)
 
-[![Screenshot](https://raw.githubusercontent.com/dpastorgalan/PersonalWeb/master/static/img/icon-192.png)](https://www.danielpastorgalan.com/)
+[![Screenshot](https://raw.githubusercontent.com/dpastorgalan/Personal_Web2/master/assets/images/icon-192.png)](https://www.danielpastorgalan.com/)

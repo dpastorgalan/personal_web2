@@ -32,4 +32,4 @@ slides: ""
 
 Description of the podcast when there is a podcast
 
-![The show](/images/rock-pick_3.svg)
+![The show](https://raw.githubusercontent.com/dpastorgalan/Personal_Web2/master/assets/images/rock-pick_3.svg)
