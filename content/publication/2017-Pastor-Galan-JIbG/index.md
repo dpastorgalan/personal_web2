@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Central Iberia", "Paleomagnetism", "Orocline"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2017-Pastor-Galan-JIbG.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
