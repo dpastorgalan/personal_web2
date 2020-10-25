@@ -31,3 +31,5 @@ slides: ""
 ---
 
 Description of the podcast when there is a podcast
+
+![The show](/images/rock-pick_3.svg)
