@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Structural Geology", "Paleomagnetism", "Orocline", "Geochronology"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2020-Koymans-G3.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
