@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Paleomagnetism", "Iberian Range", "Orocline"]
 
 # Links (optional).
-url_pdf = "/publication/PDFs/2018-Pastor-Galan-TECTO.pdf"
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
