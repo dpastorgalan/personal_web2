@@ -7,8 +7,8 @@ draft = false
 authors = ["Daniel Pastor-Galán", "Rob van der Voo"]
 
 # Publication type.
-# 7 = Poster
-publication_types = ["7"]
+# 0 = Poster to be created
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Poster from NAC14"

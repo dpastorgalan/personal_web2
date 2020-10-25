@@ -7,8 +7,8 @@ draft = false
 authors = ["Daniel Pastor-Galán"]
 
 # Publication type.
-# 7 = Poster
-publication_types = ["7"]
+# 9 = Poster
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Poster from JpGU2017"
