@@ -23,7 +23,7 @@ projects = []
 
 url_custom = [{name = "LINK", url = "https://www.sciencedirect.com/science/article/pii/S0024493713002958"}]
 
-url_pdf = "/publication/PDFs/2013-Pastor-Galan-LITHOS.pdf"
+url_pdf = ""
 
 math = false
 
