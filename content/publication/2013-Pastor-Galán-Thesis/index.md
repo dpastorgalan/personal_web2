@@ -9,13 +9,14 @@ authors = ["Daniel Pastor-Galán"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
-# 1 = Conference pape
+# 1 = Conference paper
 # 2 = Journal article
 # 3 = Manuscript
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["5"]
+# 7 = Thesis
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "Serie Nova Terra, Universidade da Coruña, Servizo de Publicacións, A Coruña, ISBN 10: 8497495489  ISBN 13: 9788497495486"
@@ -43,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Arabia-Eurasia", "Greater Caucassus", "Orocline"]
 
 # Links (optional).
-#url_pdf = "/publication/PDFs/2011-Gutierrez-Alonso-Tectonics.pdf"
+#url_pdf = ""
 url_preprint = "https://gredos.usal.es/jspui/handle/10366/121207"
 #url_code = "#"
 #url_dataset = "#"
