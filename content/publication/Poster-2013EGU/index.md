@@ -1,5 +1,5 @@
 +++
-title = "Supercontinent and Superplate?"
+title = "Conical folding in the core of an orocline"
 date = 2016-04-16
 draft = false
 
@@ -11,7 +11,7 @@ authors = ["Daniel Pastor-Galán", "Gabriel Gutiérrez-Alonso", "Kieran Mulchron
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Conical folding in the core of an orocline"
+publication = "Poster from EGU-2013"
 publication_short = ""
 
 # Abstract and optional shortened version.

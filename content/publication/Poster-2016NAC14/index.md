@@ -11,7 +11,7 @@ authors = ["Daniel Pastor-Galán", "Rob van der Voo"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Supercontinent and Superplate?"
+publication = "Prize awarded poster from NAC14 (2016)"
 publication_short = ""
 
 # Abstract and optional shortened version.
