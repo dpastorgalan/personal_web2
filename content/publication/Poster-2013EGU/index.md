@@ -4,18 +4,18 @@ date = 2016-04-16
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Pastor-Galán", "Rob van der Voo"]
+authors = ["Daniel Pastor-Galán", "Gabriel Gutiérrez-Alonso", "Kieran Mulchrone", "Pedro Huerta"]
 
 # Publication type.
 # 0 = Poster to be created
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Supercontinent and Superplate?"
+publication = "Conical folding in the core of an orocline"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This poster won the NAC14 (National Earth Sciences congress of the Netherlands) poster award in 2016"
+abstract = "I presented this Mondrian style poster at EGU 2013"
 abstract_short = ""
 image_preview = ""
 
