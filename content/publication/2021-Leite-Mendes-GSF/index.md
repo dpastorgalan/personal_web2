@@ -44,7 +44,7 @@ projects = ["internal-project"]
 tags = ["Tectonics", "Paleomagnetism", "Orocline", "Iberia"]
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = ""
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
