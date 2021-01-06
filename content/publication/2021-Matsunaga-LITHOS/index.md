@@ -1,6 +1,6 @@
 +++
 title = "Reappraisal of the oldest high-pressure type schist in Japan: New zircon Usingle bondPb age of the Kitomyo Schist of the Kurosegawa Belt"
-date = 2020-11-27
+date = 2021-01-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
