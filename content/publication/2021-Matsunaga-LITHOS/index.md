@@ -1,5 +1,5 @@
 +++
-title = "Reappraisal of the oldest high-pressure type schist in Japan: New zircon Usingle bondPb age of the Kitomyo Schist of the Kurosegawa Belt"
+title = "Reappraisal of the oldest high-pressure type schist in Japan: New zircon U-Pb age of the Kitomyo Schist of the Kurosegawa Belt"
 date = 2021-01-01
 draft = false
 
