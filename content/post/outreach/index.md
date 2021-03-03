@@ -75,6 +75,8 @@ Spanish version of the previous
 A free online event where school students get to meet and interact with geoscientists. It’s a free game-show-style competition between geoscientists, where the students are the judges.Students challenge the geoscientists over fast-paced online test-based liveCHATs. They ASK the geoscientists all the questions they want, and VOTE for their favourite scientist to win €500 to communicate their work with the public.
 
 ### Media :newspaper:
+- 2021-03-02 - [Interview for RNE (National Spanish Radio)](https://www.rtve.es/alacarta/audios/punto-de-enlace/punto-enlace-daniel-pastor-galan-estudia-japon-pasado-geologico-02-03-21/5807371/) In Spanish [Mirror](/media/2021-03-02_Punto_de_enlace.mp3)
+- 2021-01-27 - [Nikkei article about Ganbat's paper on Tanzanian Paleoproterozoic](https://r.nikkei.com/article/DGXLRSP603970_27012021000000?s=6) In Japanese.
 - 2020-09-08 - Radio Interview with Antonio Armas [investigadores por el mundo](https://www.ivoox.com/moldeado-del-este-asiatico-subduccion-del-audios-mp3_rf_56322511_1.html) [MP3 Mirror](/media/2020-09-08_AntonioArmasInterview.mp3) 
 - 2020-01-22 - [Sendai, Living on the edge!](https://blogs.egu.eu/divisions/ts/2020/01/22/sendai-living-on-the-edge/) Blog post at EGU Tectonics and Structural geology blog.
 - 2019-05-08 - [Interview for Alumni - former students of the University of Salamanca](https://alumni.usal.es/entrevista-daniel-pastor/?fbclid=IwAR10c3KpinxuslpdP8x_aJtyiFi8JznljJtjyDGurYDVrFq41qUWxSW1EqI) [{PDF print}](https://drive.google.com/open?id=1iGEZe-iDJyEJJW2i3xNWvNo0NGdFo_We)
