@@ -65,7 +65,7 @@ caption = "Cupcake"
 
 ### Participation in outreach activities 
 ## 2017-2018 [**JSPS Science Dialogue**](https://www.jsps.go.jp/english/e-plaza/e-sdialogue/index.html) 
-The program offers [JSPS Overseas Fellows](https://www.jsps.go.jp/english/e-ab/index.html) the unique opportunities to volunteer to give lectures in English on their research work at Japanese high schools in the vicinity of their host institutes. The aim of the lectures is to stimulate the young students’ interest in research and deepen their understanding from a global point of view through interacting with Fellows. As for the Fellows, the participation in the program will be an enjoyable opportunity to communicate with the local community and strengthen their ties with Japan. By the way, [I was the announcement photograph in the 2018 call](/media/SD2018_EN.pdf).
+The program offers [JSPS Overseas Fellows](https://www.jsps.go.jp/english/e-ab/index.html) the unique opportunities to volunteer to give lectures in English on their research work at Japanese high schools in the vicinity of their host institutes. The aim of the lectures is to stimulate the young students’ interest in research and deepen their understanding from a global point of view through interacting with Fellows. As for the Fellows, the participation in the program will be an enjoyable opportunity to communicate with the local community and strengthen their ties with Japan. By the way, [I was the announcement photograph in the 2018 call](/static/files/SD2018_EN.pdf).
 ![Screenshot](https://raw.githubusercontent.com/dpastorgalan/Personal_Web2/master/assets/images/JSPSSD2017.jpg)
 
 ## 2016 [Somos científicos, ¡sácanos de aquí!](http://somoscientificos.es/)
@@ -75,7 +75,8 @@ Spanish version of the previous
 A free online event where school students get to meet and interact with geoscientists. It’s a free game-show-style competition between geoscientists, where the students are the judges.Students challenge the geoscientists over fast-paced online test-based liveCHATs. They ASK the geoscientists all the questions they want, and VOTE for their favourite scientist to win €500 to communicate their work with the public.
 
 ### Media :newspaper:
-- 2021-03-02 - [Interview for RNE (National Spanish Radio)](https://www.rtve.es/alacarta/audios/punto-de-enlace/punto-enlace-daniel-pastor-galan-estudia-japon-pasado-geologico-02-03-21/5807371/) In Spanish [Mirror](/media/2021-03-02_Punto_de_enlace.mp3)
+- 2021-03-07 - [Participation in 'A Ciencia Cierta' podcast](https://www.ivoox.com/todo-sobre-fukushima-10-anos-del-terremoto-tsunami-accidente-nuclear-audios-mp3_rf_66588444_1.html) In Spanish [Mp3 Download](/media/2021-03-07_Acienciacierta.mp3)
+- 2021-03-02 - [Interview for RNE (National Spanish Radio)](https://www.rtve.es/alacarta/audios/punto-de-enlace/punto-enlace-daniel-pastor-galan-estudia-japon-pasado-geologico-02-03-21/5807371/) In Spanish [Mp3 Download](/media/2021-03-02_Punto_de_enlace.mp3)
 - 2021-01-27 - [Nikkei article about Ganbat's paper on Tanzanian Paleoproterozoic](https://r.nikkei.com/article/DGXLRSP603970_27012021000000?s=6) In Japanese.
 - 2020-09-08 - Radio Interview with Antonio Armas [investigadores por el mundo](https://www.ivoox.com/moldeado-del-este-asiatico-subduccion-del-audios-mp3_rf_56322511_1.html) [MP3 Mirror](/media/2020-09-08_AntonioArmasInterview.mp3) 
 - 2020-01-22 - [Sendai, Living on the edge!](https://blogs.egu.eu/divisions/ts/2020/01/22/sendai-living-on-the-edge/) Blog post at EGU Tectonics and Structural geology blog.
@@ -96,4 +97,4 @@ A free online event where school students get to meet and interact with geoscien
 - 2014-12-19 - [Web interview in Rock Head Sciences](http://rockheadsciences.com/pastor-galan-paleomagnetism/)
 
 
-[![Screenshot](https://raw.githubusercontent.com/dpastorgalan/PersonalWeb/master/static/img/icon-192.png)](https://www.danielpastorgalan.com/)
+[![Screenshot](/static/files/icon-192.png)](https://www.danielpastorgalan.com/)
